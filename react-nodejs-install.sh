@@ -1,7 +1,7 @@
 #!/bin/bash
 # Author: Prayag
 #
-curl -sL https://deb.nodesource.com/setup_18.x | sudo bash -
+curl -sL https://rpm.nodesource.com/setup_18.x | sudo bash -
 sudo apt-get install -y nodejs
 node -v
 sudo npm install npm@latest -g
