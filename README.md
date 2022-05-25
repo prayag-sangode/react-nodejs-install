@@ -1,2 +1,5 @@
-# react-nodejs-install
-React Nodejs Installation
+# React Nodejs Installation on Ubuntu
+
+`curl https://raw.githubusercontent.com/prayag-sangode/react-nodejs-install/main/react-nodejs-install-ub.sh | sudo bash`
+
+**build** directory will be generated which will be usefull in creating Dockerfile
